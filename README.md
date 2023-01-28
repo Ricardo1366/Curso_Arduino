@@ -1,8 +1,7 @@
 # Curso iniciación a Arduino
 Consta de 6 sesiones donde se tratan los temas básicos para poder empezar a programar en la plataforma Arduino entendiendo el hardware de los microprocesasores y como funcionan.
 
-[1.- Introducción](#-1.--Introducción)
-Hola
+[1.- Introducción](#-1.-Introducción)
 
 Hola
 
@@ -18,9 +17,11 @@ Hola
 
 Hola
 
+Hola
 
 
-# 1.- Introducción
+
+# 1. Introducción
 
   `1.1 Historia` Breve introducción a la historia de Arduino. Cual son sus orígenes y su evolución hasta hoy día.
 
