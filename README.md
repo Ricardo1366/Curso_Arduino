@@ -13,7 +13,7 @@ Consta de 6 sesiones donde se tratan los temas básicos para poder empezar a pro
 
 [6.- Próximamente]
 
-Archivos del curso y enlaces de interés [AQUÍ]()
+Archivos del curso y enlaces de interés [AQUÍ](https://github.com/AsociacionMakerAlicante/Curso_Arduino/tree/main/Material%20adicional)
 
 
 
