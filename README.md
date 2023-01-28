@@ -5,10 +5,10 @@ Consta de 6 sesiones donde se tratan los temas básicos para poder empezar a pro
 # 1 Introducción
 
 
-  ```text 
+  ```text
   1.1 Historia
-  ``` 
-  Breve introducción a la historia de Arduino. Cual son sus orígenes y su evolución hasta hoy día.
+  ```
+ Breve introducción a la historia de Arduino. Cual son sus orígenes y su evolución hasta hoy día.
 
   **1.2 Entorno desarrollo** Instalación de Visual Studio Code y la extensión "PlarformIO" que utilizaremos para programar en Arduino.
 
