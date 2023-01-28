@@ -2,7 +2,7 @@
 Consta de 6 sesiones donde se tratan los temas básicos para poder empezar a programar en la plataforma Arduino entendiendo el hardware de los microprocesasores y como funcionan.
 
 - [1 - Introducción](#-1-Introducción)
-- [2 - Arquitectura](#-1-Arquitectura)
+- [2 - Arquitectura](#-2-Arquitectura)
 
 Hola
 
