@@ -1,0 +1,10 @@
+Enlaces de interes.
+===================
+- GitHub del curso: https://github.com/AsociacionMakerAlicante/Curso_Arduino
+- Página oficial de Arduino: https://www.arduino.cc/
+- Referencia de lenguaje Arduino: https://www.arduino.cc/reference/es/
+- Instalación Visual Studio Code: https://code.visualstudio.com/
+
+Extensión para programar con el IDE de Arduino en Visual Studio Code --> "PlatformIO IDE"
+Extensión para Visual Studio Code en español --> "Spanish Language Pack for Visual Studio Code"
+
